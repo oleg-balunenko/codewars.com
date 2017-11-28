@@ -1,0 +1,3 @@
+[submodule "multiply"]
+	path = multiply
+	url = https://github.com/oleg-balunenko/multiply.git
